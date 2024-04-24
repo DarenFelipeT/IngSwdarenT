@@ -1,3 +1,2 @@
-# IngSw daren felipe  hola mundo
+#ing sofware
 
-# el codigo siguiente es basadoe en un juego
